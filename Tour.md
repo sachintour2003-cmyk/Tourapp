@@ -943,6 +943,5 @@ footer .f-brand .mark svg{width:18px;height:18px}
   initReviews();
 })();
 </script>
-
 </body>
 </html><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4e435ea0-0a9c-40b1-9511-db3118a29cd2" />
